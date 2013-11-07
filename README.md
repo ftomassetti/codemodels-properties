@@ -1,4 +1,4 @@
-properties_lightmodels
-======================
+codemodels-properties
+=====================
 
-Lightmodels representation of properties files
+Plugin to support properties files in CodeModels.
